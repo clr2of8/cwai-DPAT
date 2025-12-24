@@ -58,7 +58,6 @@ DPAT Report/
 DPAT Report - Sanitized/
 Sanitized - DPAT Report/
 *.html
-**/DPAT icon.png
 
 # Claude
 .claude/*
